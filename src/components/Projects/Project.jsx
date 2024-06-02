@@ -50,7 +50,7 @@ function Project() {
                 isBlog={false}
                 title="Let's Taste"
                 description="This project is kind of Food ordering app which provides many international cuisine.For this i also made a cart and to check your order.For this project I used Firebase for both as backend for data and end points and for hosting as well.and also used ReactJS."
-                ghLink="https://github.com/aaquib-anzar/WeatherApp"
+                ghLink="https://github.com/aaquib-anzar/FoodApp/tree/master"
                 demoLink="https://lets-taste-ea1de.web.app/"
               />
             </div>
@@ -61,7 +61,7 @@ function Project() {
                 imgPath={news}
                 isBlog={false}
                 title="NewsMania"
-                description="NewMania is the one stop soltuion for your morning.As it provides news from all the various sources at one place .Build with react.js and Firebase."
+                description="NewMania is the one stop soltuion for your morning.As it provides news from all the various sources at one place.But after developing i got to know that this API only works on loclalhost.Build with react.js and Firebase."
                 ghLink="https://github.com/aaquib-anzar/NewsMania"
                 demoLink="https://news-mania-5yc464tkl-aaquib-anzars-projects.vercel.app/"
               />

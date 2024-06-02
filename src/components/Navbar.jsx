@@ -96,7 +96,7 @@ function Navbar() {
             </li>
             <li className={`${classes["fork-btn"]} me-5`}>
               <Link
-                to="https://github.com/aaquib-anzar/Portfolio"
+                to="https://github.com/aaquib-anzar/"
                 target="_blank"
                 className={classes["fork-btn-inner"]}
               >

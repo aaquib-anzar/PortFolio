@@ -1,10 +1,6 @@
 
 .project-section {
-  position: relative !important;
   padding-top: 75px !important;
-  padding-bottom: 30px !important;
-  padding-left: 45px !important;
-  padding-right: 10px !important;
   background-color: #1e152c;
 }
 .project-card {
